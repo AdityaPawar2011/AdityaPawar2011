@@ -1,4 +1,3 @@
-![snake_gif](https://github.com/AdityaPawar2011/AdityaPawar2011/blot/output/github-countribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Aditya Dilip Pawar</h1>
 <h3 align="center">A passionate frontend developer from Pune, India</h3>
 
